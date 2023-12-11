@@ -5,7 +5,7 @@ import (
 	"os"
 	"text/scanner"
 
-	"github.com/sacOO7/socketcluster-client-go/scclient"
+	"github.com/ace-dog/socketcluster-client-go/scclient"
 )
 
 func onConnect(client scclient.Client) {

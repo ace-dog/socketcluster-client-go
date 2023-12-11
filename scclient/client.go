@@ -4,9 +4,9 @@ import (
 	"net/http"
 	_ "time"
 
-	"github.com/sacOO7/socketcluster-client-go/scclient/models"
-	"github.com/sacOO7/socketcluster-client-go/scclient/parser"
-	"github.com/sacOO7/socketcluster-client-go/scclient/utils"
+	"github.com/ace-dog/socketcluster-client-go/scclient/models"
+	"github.com/ace-dog/socketcluster-client-go/scclient/parser"
+	"github.com/ace-dog/socketcluster-client-go/scclient/utils"
 
 	logging "github.com/sacOO7/go-logger"
 	"github.com/sacOO7/gowebsocket"
